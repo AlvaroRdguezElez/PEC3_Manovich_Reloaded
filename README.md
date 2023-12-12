@@ -117,7 +117,7 @@ Para valorar correctamente la plataforma, **_debemos diferenciar su hibridación
 
 >_“La hibridación es un proceso de remediación, de fusión de los medios que va más allá que la multimedia. En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan normalmente en un plano bidimensional” Ferran, Adell. “Remediación, multimedia e hibridación de los medios”. Blog de Fundamentos y evolución de la multimedia (blog). UOC. https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/_
 
-Cómo se ha explicado anteriormente, Microsoft start integra en una sección de noticias, una calculadora o incluso un traductor. Es cierto que podemos interactuar con estos elementos en una misma plataforma, **_pero en este caso no se produce una hibridación_**, puesto que **_los elementos conviven y se complementan_**, conservando su propio lenguaje y sin generar una fusión de sus elementos.
+Cómo se ha explicado anteriormente, Microsoft start integra en una sección de noticias, una calculadora o incluso un traductor. Es cierto que podemos interactuar con estos elementos en una misma plataforma, pero en **_este caso no se produce una hibridación_**, puesto que los elementos conviven y se complementan, conservando su propio lenguaje y sin generar una fusión de sus elementos.
 
 Sin embargo, la principal capacidad de esta plataforma se encuentra en la incorporación de IA conversacional llamada **_Copilot. Y es aquí donde se observa la hibridación de los elementos_**. 
 

@@ -164,6 +164,10 @@ https://academy.binance.com/es/articles/what-is-blockchain-and-how-does-it-work_
 Fecha de acceso Diciembre 2023.
 https://es.wikipedia.org/wiki/Cadena_de_bloques_
 
+- _ Microsoft. "El contenido que les interesa, simplificado y reinventado. Presentamos Microsoft Start"
+Fecha de acceso Diciembre 2023.
+https://news.microsoft.com/es-xl/el-contenido-que-les-interesa-simplificado-y-reinventado-presentamos-microsoft-start/_
+
 - _Imagen 1. Imagen de Lev Manovich. Fotografía de Evgenija Gorobets.
 https://www.universiteitleiden.nl/binaries/content/gallery/customsites/mediatechnology/manovich.photo-evgeniya-gorobets.v3.jpg/manovich.photo-evgeniya-gorobets.v3.jpg/d880x320_
 

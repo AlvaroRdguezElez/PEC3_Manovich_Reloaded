@@ -43,7 +43,6 @@ Del mismo modo, al observar el metaverso desde una mirada amplia, se podría afi
 
 ## Re-descubriendo la hibridación: La Blockchain
 ![Foto representativa de la blockchain](https://github.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/blob/main/Blockchain%2001.jpg?raw=true)
-
 ### _¿Qué es la Blockchain?_
 La tecnología blockchain actúa como un registro digital avanzado, donde **_la seguridad y descentralización son las características principales_**. La blockchain como su nombre indica, está formada por una cadena de bloques. Cada uno de ellos contiene un sello digital único, o hash, del bloque anterior. Modificar un bloque requeriría cambiar todos los subsiguientes, una tarea casi inviable debido a la complejidad criptográfica que incorpora esta tecnología, estableciendo un sistema donde **_la información es casi imposible de alterar._** 
 
@@ -90,7 +89,7 @@ La blockchain es un ejemplo de cómo los nuevos medios influyen en la transcodif
 
 Este avance tecnológico **_ha fomentado movimientos hacia una mayor transparencia y descentralización_**, desafiando las estructuras tradicionales de poder y control, resaltando su aspecto democrático, que se ve fortalecido por un sistema de votación constante y automático.
 
-![Imagen de muchas personas conectadas a la Blockchain](https://raw.githubusercontent.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/main/Blockchain.png)
+![Imagen de muchas personas conectadas a la Blockchain](https://github.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/blob/main/Blockchain%2002.png?raw=true)
 
 Este reconfiguración en el nivel cultural influye directamente en lo computacional. El interés de los usuarios por la descentralización, ha influenciado la evolución de la Blockchain en los últimos años. Prueba de ello es el **_creciente desarrollo de aplicaciones descentralizadas (DApps)_**, como las DeFi (aplicaciones de finanza descentralizada); el metaverso, con la distribución de activos por medio de NFTs o incluso base de datos en la nube descentralizadas.
 
@@ -102,7 +101,7 @@ Sin embargo, estos esfuerzos de los organismos centralizados no han hecho más q
 
 
 ## Ejemplo de hibridación: Microsoft Start
-![Imagen de la aplicación de Microsoft Start y la IA Copilot](https://raw.githubusercontent.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/main/Microsoft%20Start.png)
+![Imagen de la aplicación de Microsoft Start y la IA Copilot](https://github.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/blob/main/Microsoft%20Start.png?raw=true)
 ### _¿Qué es Microsoft Start?_
 Microsoft Start es una plataforma **_centrada principalmente en ofrecer al usuario una herramienta de noticias personalizadas_**. El usuario dispone de un feed de noticias que ha sido personalizado en función de sus intereses, ya que pueden elegir los temas y fuentes de noticias que les resulte más interesantes, lo que les permite tener un mayor control sobre el tipo de contenido.
 

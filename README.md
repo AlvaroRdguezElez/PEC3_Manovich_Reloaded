@@ -4,7 +4,7 @@ Autor: Álvaro Rodríguez Élez
 Fecha: 12/12/2023
   
 ## _Introducción_
-En este artículo se analizarán dos ejemplos de hibridación vistos a través de los ojos de Lev Manovich. Estudiaremos la **Blockchain** y **Microsoft Start** como casos de hibridación que influyen significativamente en el nivel cultural, remodelando las expectativas de la sociedad y ejemplificando a su vez, la adaptación de las capacidades de los nuevos medios a las exigencias surgidas de la evolución cultural.
+En este artículo se analizarán dos ejemplos de hibridación vistos a través de los ojos de Lev Manovich. Estudiaremos la **_Blockchain_** y **_Microsoft Start_** como casos de hibridación que influyen significativamente en el nivel cultural, remodelando las expectativas de la sociedad y ejemplificando a su vez, la adaptación de las capacidades de los nuevos medios a las exigencias surgidas de la evolución cultural.
 
 
 ## _Sobre Lev Manovich_
@@ -34,7 +34,7 @@ Considero que para poder reconocer una hibridación, debemos observar cómo se c
 
 >_“tal y cómo lo vive el usuario del software para aplicaciones, la representación consta de partes entrelazadas: datos estructurados de una forma determinada y las interfaces/herramientas que tenemos para navegar y trabajar con esos datos” (Manovich, Lev. El software toma el mando. Barcelona: Editorial UOC, 2013)._
 
-En **mi opinión**, para determinar si nos encontramos ante una hibridación, es crucial considerar el nivel de análisis que se pretende valorar en una **estructura de datos** o **interfaz específica**. A su vez, este nivel de análisis estará condicionado por el grado de conocimiento que cada persona tenga sobre el medio en cuestión y su estructura. 
+En **_mi opinión_**, para determinar si nos encontramos ante una hibridación, es crucial considerar el nivel de análisis que se pretende valorar en una **__estructura de datos__** o **__interfaz específica__**. A su vez, este nivel de análisis estará condicionado por el grado de conocimiento que cada persona tenga sobre el medio en cuestión y su estructura. 
 
 Por ejemplo, Manovich identifica Streetview como una hibridación de fotografías y navegación espacial, donde su estructura subyacente es distintiva y única, lo que la define como una hibridación para aquellos que profundizan en su estructura de datos. Sin embargo, desde una mirada más amplia, se podría identificar como un simple entorno de imágenes digitales navegables, similar a un videojuego.
 
@@ -45,11 +45,11 @@ Del mismo modo, al observar el metaverso desde una mirada amplia, se podría afi
 ![Foto representativa de la blockchain](https://github.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/blob/main/Blockchain%2001.jpg?raw=true)
 
 ### _¿Qué es la Blockchain?_
-La tecnología blockchain actúa como un registro digital avanzado, donde la seguridad y descentralización son las características principales. La blockchain como su nombre indica, está formada por una cadena de bloques. Cada uno de ellos contiene un sello digital único, o hash, del bloque anterior. Modificar un bloque requeriría cambiar todos los subsiguientes, una tarea casi inviable debido a la complejidad criptográfica que incorpora esta tecnología, estableciendo un sistema donde la información es casi imposible de alterar. 
+La tecnología blockchain actúa como un registro digital avanzado, donde **_la seguridad y descentralización son las características principales_**. La blockchain como su nombre indica, está formada por una cadena de bloques. Cada uno de ellos contiene un sello digital único, o hash, del bloque anterior. Modificar un bloque requeriría cambiar todos los subsiguientes, una tarea casi inviable debido a la complejidad criptográfica que incorpora esta tecnología, estableciendo un sistema donde **_la información es casi imposible de alterar._** 
 
-La blockchain proporciona una visibilidad pública de todas las transacciones, lo que aumenta la transparencia. Su tecnología permite a cualquier persona acceder y revisar el historial completo de transacciones, reforzando así la confianza en el sistema. 
+La blockchain proporciona una visibilidad pública de todas las transacciones, lo que aumenta la transparencia. **_Su tecnología permite a cualquier persona acceder y revisar el historial completo de transacciones, reforzando así la confianza en el sistema_**. 
 
-Está tecnología no consta de una autoridad central. Al contrario, la información se distribuye en una red global de computadoras, conocidas como nodos. Estos nodos colaboran para validar y registrar transacciones, lo que suprime la necesidad de intermediarios y fortalece la resistencia contra la censura o manipulación de la información.
+Está tecnología no consta de una autoridad central. Al contrario, **_la información se distribuye en una red global de computadoras_**, conocidas como nodos. Estos nodos colaboran para validar y registrar transacciones, lo que suprime la necesidad de intermediarios y fortalece la resistencia contra la censura o manipulación de la información.
 
 Las decisiones sobre cambios o mejoras en la red se toman colectivamente mediante un proceso automático de votación codificados en la propia red. 
 
@@ -72,9 +72,9 @@ Este enfoque descentralizado, transparente y seguro, distingue a la blockchain c
 
 
 ### _Tipo de hibridación_
-Cómo vemos, la blockchain es un caso de hibridación en el terreno de la **estructura de datos**, donde se experimenta una profunda transformación en la forma en que se procesa la información, reforzando significativamente la seguridad y la integridad de los datos, pero también estableciendo un nuevo paradigma en la gestión de la información y las transacciones, donde la descentralización y la gobernanza actúan como pilares fundamentales. 
+Cómo vemos, **_la blockchain es un caso de hibridación en el terreno de la estructura de datos_**, donde se experimenta una profunda transformación en la forma en que se procesa la información, reforzando significativamente la seguridad y la integridad de los datos, pero también estableciendo un nuevo paradigma en la gestión de la información y las transacciones, donde la descentralización y la gobernanza actúan como pilares fundamentales. 
 
-En esta tecnología, se fusionan distintas estructuras de datos para crear un medio completamente nuevo, combinando elementos de criptografía, listas enlazadas y sistemas de redes distribuidas. Bitcoin, fue la primera blockchain capaz de fusionar estos elementos, su propósito era crear una moneda digital descentralizada, proporcionando una alternativa a las monedas fiduciarias gobernadas por bancos centrales, pero está tecnología sólo fue el inicio de un nuevo medio en constante evolución.
+En esta tecnología, **_se fusionan distintas estructuras de datos para crear un medio completamente nuevo_**, combinando elementos de criptografía, listas enlazadas y sistemas de redes distribuidas. **_Bitcoin_**, fue la primera blockchain capaz de fusionar estos elementos, su propósito era crear una moneda digital descentralizada, proporcionando una alternativa a las monedas fiduciarias gobernadas por bancos centrales, pero está tecnología sólo fue el inicio de un nuevo medio en constante evolución.
 
 ### _Su hibridación constante_
 La innovación en tecnología blockchain, es un claro ejemplo de la evolución constante que se produce en el metamedio ordenador. En este aspecto, Bitcoin ha impulsado la creación de nuevos híbridos que buscan mejorar y expandir sus capacidades. Un ejemplo es **Ethereum**, que adopta los principios fundamentales de Bitcoin y a su vez, incorpora una capa de programación avanzada. A diferencia de Bitcoin, que se limita principalmente a scripts básicos para transacciones.

@@ -34,7 +34,7 @@ Considero que para poder reconocer una hibridación, debemos observar cómo se c
 
 >_“tal y cómo lo vive el usuario del software para aplicaciones, la representación consta de partes entrelazadas: datos estructurados de una forma determinada y las interfaces/herramientas que tenemos para navegar y trabajar con esos datos” (Manovich, Lev. El software toma el mando. Barcelona: Editorial UOC, 2013)._
 
-En **_mi opinión_**, para determinar si nos encontramos ante una hibridación, es crucial considerar el nivel de análisis que se pretende valorar en una **__estructura de datos__** o **__interfaz específica__**. A su vez, este nivel de análisis estará condicionado por el grado de conocimiento que cada persona tenga sobre el medio en cuestión y su estructura. 
+En **_mi opinión_**, para determinar si nos encontramos ante una hibridación, es crucial considerar el nivel de análisis que se pretende valorar en una estructura de datos o interfaz específica. A su vez, este nivel de análisis estará condicionado por el grado de conocimiento que cada persona tenga sobre el medio en cuestión y su estructura. 
 
 Por ejemplo, Manovich identifica Streetview como una hibridación de fotografías y navegación espacial, donde su estructura subyacente es distintiva y única, lo que la define como una hibridación para aquellos que profundizan en su estructura de datos. Sin embargo, desde una mirada más amplia, se podría identificar como un simple entorno de imágenes digitales navegables, similar a un videojuego.
 
@@ -47,7 +47,7 @@ Del mismo modo, al observar el metaverso desde una mirada amplia, se podría afi
 ### _¿Qué es la Blockchain?_
 La tecnología blockchain actúa como un registro digital avanzado, donde **_la seguridad y descentralización son las características principales_**. La blockchain como su nombre indica, está formada por una cadena de bloques. Cada uno de ellos contiene un sello digital único, o hash, del bloque anterior. Modificar un bloque requeriría cambiar todos los subsiguientes, una tarea casi inviable debido a la complejidad criptográfica que incorpora esta tecnología, estableciendo un sistema donde **_la información es casi imposible de alterar._** 
 
-La blockchain proporciona una visibilidad pública de todas las transacciones, lo que aumenta la transparencia. **_Su tecnología permite a cualquier persona acceder y revisar el historial completo de transacciones, reforzando así la confianza en el sistema_**. 
+La blockchain proporciona una visibilidad pública de todas las transacciones, lo que aumenta la transparencia. Su tecnología permite a cualquier persona acceder y revisar el historial completo de transacciones, reforzando así la confianza en el sistema. 
 
 Está tecnología no consta de una autoridad central. Al contrario, **_la información se distribuye en una red global de computadoras_**, conocidas como nodos. Estos nodos colaboran para validar y registrar transacciones, lo que suprime la necesidad de intermediarios y fortalece la resistencia contra la censura o manipulación de la información.
 
@@ -77,22 +77,22 @@ Cómo vemos, **_la blockchain es un caso de hibridación en el terreno de la est
 En esta tecnología, **_se fusionan distintas estructuras de datos para crear un medio completamente nuevo_**, combinando elementos de criptografía, listas enlazadas y sistemas de redes distribuidas. **_Bitcoin_**, fue la primera blockchain capaz de fusionar estos elementos, su propósito era crear una moneda digital descentralizada, proporcionando una alternativa a las monedas fiduciarias gobernadas por bancos centrales, pero está tecnología sólo fue el inicio de un nuevo medio en constante evolución.
 
 ### _Su hibridación constante_
-La innovación en tecnología blockchain, es un claro ejemplo de la evolución constante que se produce en el metamedio ordenador. En este aspecto, Bitcoin ha impulsado la creación de nuevos híbridos que buscan mejorar y expandir sus capacidades. Un ejemplo es **Ethereum**, que adopta los principios fundamentales de Bitcoin y a su vez, incorpora una capa de programación avanzada. A diferencia de Bitcoin, que se limita principalmente a scripts básicos para transacciones.
+La innovación en tecnología blockchain, es un claro ejemplo de la evolución constante que se produce en el metamedio ordenador. En este aspecto, **_Bitcoin ha impulsado la creación de nuevos híbridos_** que buscan mejorar y expandir sus capacidades. Un ejemplo es **Ethereum**, que adopta los principios fundamentales de Bitcoin y a su vez, incorpora una capa de programación avanzada. A diferencia de Bitcoin, que se limita principalmente a scripts básicos para transacciones.
 
-Ethereum en su hibridación, añade una nueva funcionalidad al permitir **contratos inteligentes** o **smart contracts**. Estos contratos representan una evolución importantísima en la manera de concebir y ejecutar acuerdos automatizados, de esta forma, permite no solo transferencias de valor como en Bitcoin, sino también la ejecución de operaciones complejas y automatizadas basadas en condiciones predefinidas.
+Ethereum en su hibridación, **_añade una nueva funcionalidad al permitir contratos inteligentes_** o smart contracts. Estos contratos representan una evolución importantísima en la manera de concebir y ejecutar acuerdos automatizados, de esta forma, permite no solo transferencias de valor como en Bitcoin, sino también la ejecución de operaciones complejas y automatizadas basadas en condiciones predefinidas.
 
 En este proceso de mejora constante que se aplica a los nuevos medios y tras la incorporación de los contratos inteligentes a las nuevas blockchains, se incorporan nuevas funcionalidad que llevan esta tecnología a sectores como los videojuegos o el arte, revolucionando la propiedad de activos digitales con los NFTs; también a las finanzas, con la creación de las DeFi (finanzas descentralizadas); y a la logística, mejorando la trazabilidad y la eficiencia en la cadena de suministro.
 
 ### _Su Influencia cultural_
 La blockchain es un ejemplo de cómo los nuevos medios influyen en la transcodificación desarrollada por Lev Manovich tanto a nivel computacional, como a nivel cultural. Ambos niveles se complementan e influyen mutuamente en una evolución constante.
 
-La influencia de la blockchain a nivel cultural es notable, ya que ha impactado de forma directa en la percepción y manejo de propiedad y la información, reconfigurado las expectativas de la sociedad en cuanto a los organismos que acaparan el poder en cualquier ámbito, destacando el aspecto democrático de esta tecnología.
+**_La influencia de la blockchain a nivel cultural es notable_**, ya que ha impactado de forma directa en la percepción y manejo de propiedad y la información, reconfigurando las expectativas de la sociedad hacia los organismos que acaparan el poder en cualquier ámbito, **_destacando el aspecto democrático de esta tecnología_**.
 
-Este avance tecnológico ha fomentado movimientos hacia una mayor transparencia y descentralización, desafiando las estructuras tradicionales de poder y control, resaltando su aspecto democrático, que se ve fortalecido por un sistema de votación constante y automático.
+Este avance tecnológico **_ha fomentado movimientos hacia una mayor transparencia y descentralización_**, desafiando las estructuras tradicionales de poder y control, resaltando su aspecto democrático, que se ve fortalecido por un sistema de votación constante y automático.
 
 ![Imagen de muchas personas conectadas a la Blockchain](https://raw.githubusercontent.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/main/Blockchain.png)
 
-Este reconfiguración en el nivel cultural influye directamente en lo computacional. El interés de los usuarios por la descentralización, ha influenciado la evolución de la Blockchain en los últimos años. Prueba de ello es el creciente desarrollo de aplicaciones descentralizadas (DApps), como las DeFi (aplicaciones de finanza descentralizada); el metaverso, con la distribución de activos por medio de NFTs o incluso base de datos en la nube descentralizadas.
+Este reconfiguración en el nivel cultural influye directamente en lo computacional. El interés de los usuarios por la descentralización, ha influenciado la evolución de la Blockchain en los últimos años. Prueba de ello es el **_creciente desarrollo de aplicaciones descentralizadas (DApps)_**, como las DeFi (aplicaciones de finanza descentralizada); el metaverso, con la distribución de activos por medio de NFTs o incluso base de datos en la nube descentralizadas.
 
 Otro ejemplo de la influencia de la blockchain en el nivel cultural, son los esfuerzos de los organismos centralizados por desvirtuar esta tecnología, algunas autoridades ven en la blockchain un desafío a su control establecido especialmente en áreas como las finanzas y la gestión de datos.
 
@@ -104,7 +104,7 @@ Sin embargo, estos esfuerzos de los organismos centralizados no han hecho más q
 ## Ejemplo de hibridación: Microsoft Start
 ![Imagen de la aplicación de Microsoft Start y la IA Copilot](https://raw.githubusercontent.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/main/Microsoft%20Start.png)
 ### _¿Qué es Microsoft Start?_
-Microsoft Start es una plataforma centrada principalmente en ofrecer al usuario una herramienta de noticias personalizadas. El usuario dispone de un feed de noticias que ha sido personalizado en función de sus intereses, ya que pueden elegir los temas y fuentes de noticias que les resulte más interesantes, lo que les permite tener un mayor control sobre el tipo de contenido.
+Microsoft Start es una plataforma **_centrada principalmente en ofrecer al usuario una herramienta de noticias personalizadas_**. El usuario dispone de un feed de noticias que ha sido personalizado en función de sus intereses, ya que pueden elegir los temas y fuentes de noticias que les resulte más interesantes, lo que les permite tener un mayor control sobre el tipo de contenido.
 
 A su vez, incorpora secciones de juegos, una calculadora o un traductor, lo que aporta un extra a las capacidades de la plataforma.
 
@@ -113,36 +113,36 @@ Su objetivo es proporcionar un acceso rápido y fácil a noticias, información 
 Sin embargo, lo que hace realmente especial a Microsoft Start, es la capacidad de ofrecer la información de forma resumida y centrada en la interacción con el usuario haciendo uso de un chatbot asistido por IA.
 
 La Hibridación en Microsoft Start.
-Para valorar correctamente la plataforma, debemos diferenciar su **hibridación**, de los elementos y capacidades **multimedia**, conceptos que desarrolló Lev Manovich en su libro “El software toma el mando” y qué Adell Ferran, resume a mi parecer de manera muy clara, con el siguiente texto:
+Para valorar correctamente la plataforma, **_debemos diferenciar su hibridación, de los elementos y capacidades multimedia_**, conceptos que desarrolló Lev Manovich en su libro “El software toma el mando” y qué Adell Ferran, resume a mi parecer de manera muy clara, con el siguiente texto:
 
 >_“La hibridación es un proceso de remediación, de fusión de los medios que va más allá que la multimedia. En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan normalmente en un plano bidimensional” Ferran, Adell. “Remediación, multimedia e hibridación de los medios”. Blog de Fundamentos y evolución de la multimedia (blog). UOC. https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/_
 
-Cómo se ha explicado anteriormente, Microsoft start integra en una sección de noticias, una calculadora o incluso un traductor. Es cierto que podemos interactuar con estos elementos en una misma plataforma, pero en este caso no se produce una hibridación, puesto que los elementos conviven y se complementan, conservando su propio lenguaje y sin generar una fusión de sus elementos.
+Cómo se ha explicado anteriormente, Microsoft start integra en una sección de noticias, una calculadora o incluso un traductor. Es cierto que podemos interactuar con estos elementos en una misma plataforma, **_pero en este caso no se produce una hibridación_**, puesto que **_los elementos conviven y se complementan_**, conservando su propio lenguaje y sin generar una fusión de sus elementos.
 
-Sin embargo, la principal capacidad de esta plataforma se encuentra en la incorporación de IA conversacional llamada **Copilot**. Y es aquí donde se observa la hibridación de los elementos. 
+Sin embargo, la principal capacidad de esta plataforma se encuentra en la incorporación de IA conversacional llamada **_Copilot. Y es aquí donde se observa la hibridación de los elementos_**. 
 
-Copilot protagoniza un avance notable en la plataforma Microsoft Start. Reconfigura la forma en que los usuarios consumen noticias e información. Su capacidad para comprender y responder a consultas por medio de una conversación natural, transforma la experiencia de búsqueda y consumo de noticias, haciendo que sea más interactiva, personalizada y accesible. 
+Copilot protagoniza un avance notable en la plataforma Microsoft Start. Reconfigura la forma en que los usuarios consumen noticias e información. Su capacidad para comprender y responder a consultas por medio de una conversación natural, **_transforma la experiencia de búsqueda y consumo de noticias e información_**, haciendo que sea más interactiva, personalizada y accesible. 
 
-En lugar de navegar a través de las diferentes secciones o herramientas. La plataforma Microsoft Start permite a los usuarios dialogar directamente con Copilot, obteniendo la información más relevante de manera rápida y natural. Con la posibilidad de acceder al enlace original de la información o de la noticia.
+En lugar de navegar a través de las diferentes secciones o herramientas. La plataforma Microsoft Start **_permite a los usuarios dialogar directamente con Copilot_**, obteniendo la información más relevante de manera rápida y natural. Con la posibilidad de acceder al enlace original de la información o de la noticia.
 
 
 ### _Tipo de hibridación_
-Copilot representa una hibridación en la **interfaz de usuario** que se produce dentro de la plataforma Microsoft Start. Esta nueva interfaz abre nuevas posibilidades en términos de accesibilidad y facilidad de uso, los usuarios que encuentren dificultades en el manejo de interfaces laboriosas, pueden sentir que hablar con la IA de Microsoft Start, es mucho más natural y fácil de entender. 
+Copilot **_representa una hibridación en la interfaz de usuario_** que se produce dentro de la plataforma Microsoft Start. Esta nueva interfaz abre nuevas posibilidades en términos de accesibilidad y facilidad de uso, los usuarios que encuentren dificultades en el manejo de interfaces laboriosas, pueden sentir que hablar con la IA de Microsoft Start, es mucho más natural y fácil de entender. 
 
-No obstante, este avance en la interfaz de usuario, no sería posible sin producirse antes una hibridación en la **estructura de datos**. 
+No obstante, este avance en la interfaz de usuario, no sería posible sin producirse antes una **_hibridación en la **estructura de datos_**. 
 
-Tradicionalmente, las plataformas digitales han manejado datos estructurados, como categorías fijas de noticias o etiquetas predefinidas. Sin embargo, con la integración de la IA también se introducen datos no estructurados. La inteligencia artificial de Copilot utiliza algoritmos avanzados para analizar y procesar los datos. A su vez, el aprendizaje automático (machine learning) permite mejorar automáticamente su estructura de datos de forma continua, lo que repercute de forma directa en la interacción con el usuario.
+Tradicionalmente, las plataformas digitales han manejado datos estructurados, como categorías fijas de noticias o etiquetas predefinidas. Sin embargo, con la integración de la IA también se introducen datos no estructurados. La inteligencia artificial de Copilot utiliza algoritmos avanzados para analizar y procesar los datos. A su vez, el aprendizaje automático **_(machine learning) permite mejorar automáticamente su estructura de datos_** de forma continua, lo que repercute de forma directa en la interacción con el usuario.
 
 Por tanto, podemos decir que con la incorporación de Copilot en Microsoft Start se produce una hibridación tanto en la estructura de datos, como en la interfaz de usuario.
 
-En este contexto, la calidad de la interacción del usuario con la interfaz de Microsoft Start depende intrínsecamente de su estructura de datos subyacente. Una experiencia de usuario será exitosa cuando la conversación con la IA se desarrolle de manera natural y ofrecezca información precisa y relevante, lo que dependerá de la estructura de datos que es manejada y enriquecida continuamente por algoritmos de aprendizaje automático que procesan las solicitudes del usuario.
+En este contexto, la calidad de la interacción del usuario con la interfaz de Microsoft Start depende intrínsecamente de su estructura de datos subyacente. **_Una experiencia de usuario será exitosa cuando la conversación con la IA se desarrolle de manera natural_** y ofrecezca información precisa y relevante, lo que dependerá de la estructura de datos que es manejada y enriquecida continuamente por algoritmos de aprendizaje automático que procesan las solicitudes del usuario.
 
 ### _Su influencia cultural_
-La interfaz de Microsoft Start refleja claramente las tendencias en el desarrollo de nuevos medios al unificar distintos elementos en una sola plataforma. Este desarrollo se ha visto acentuado con la incorporando de la IA de Copilot, donde la unificación y la accesibilidad se han convertido en un elemento disruptivo. 
+La interfaz de Microsoft Start refleja claramente las tendencias en el desarrollo de nuevos medios al **_unificar distintos elementos en una sola plataforma_**. Este desarrollo se ha visto acentuado con la incorporando de la IA de Copilot, donde la unificación y la accesibilidad se han convertido en un elemento disruptivo. 
 
-Esta evolución en las plataformas digitales, responde a la demanda de los usuarios de tener un acceso centralizado a la información y las diferentes herramientas, eliminando la necesidad de utilizar varias aplicaciones.
+Esta evolución en las plataformas digitales, **_responde a la demanda de los usuarios de tener un acceso unificado_** de la información y las herramientas, eliminando la necesidad de utilizar varias aplicaciones.
 
-Microsoft Start destaca al ofrecer una solución integral donde noticias, información del clima, finanzas, entretenimiento y herramientas de productividad se encuentran en un solo lugar. Además, la integración de la IA conversacional de Copilot en la plataforma refuerza aún más esta tendencia hacia la simplificación y representa un paso adelante en la forma en que interactuamos con la tecnología y en nuestras expectativas como usuarios.
+Microsoft Start destaca al ofrecer una solución integral donde noticias, información del clima, finanzas, entretenimiento y herramientas de productividad se encuentran en un solo lugar. Además, la integración de la IA conversacional de **_Copilot refuerza aún más esta tendencia hacia la simplificación_** y representa un paso adelante en la forma en que interactuamos con la tecnología y en nuestras expectativas como usuarios.
 
 ## _Bibliografía y Referencias_
 ### _Bibliografía_

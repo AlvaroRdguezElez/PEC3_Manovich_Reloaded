@@ -12,7 +12,7 @@ En este artículo se analizarán dos ejemplos de hibridación vistos a través d
 
 Lev Manovich es un académico y teórico influyente en el campo de los nuevos medios. Es reconocido por su amplia contribución en varias áreas que incluyen las humanidades digitales, la informática social, el arte digital y la teoría de los nuevos medios, así como los estudios de software. 
 
-Su trabajo se centra en entender cómo la cultura y la sociedad se ven influenciadas y transformadas por la tecnología digital. Manovich estudia la manera en que los medios digitales interactúan y cambian las prácticas culturales. A través de su investigación y enseñanza, explora temas como el impacto de los medios digitales en el arte, la comunicación y la representación visual, así como la forma en que el software y las interfaces de usuario influyen en nuestra percepción y comprensión del mundo.
+Su trabajo se centra en entender cómo la cultura y la sociedad se ven influenciadas y transformadas por la tecnología digital. **_Manovich estudia la manera en que los medios digitales interactúan y cambian las prácticas culturales_**. A través de su investigación y enseñanza, explora temas como el impacto de los medios digitales en el arte, la comunicación y la representación visual, así como la forma en que el software y las interfaces de usuario influyen en nuestra percepción y comprensión del mundo.
 
 Manovich ocupa un puesto como profesor de informática en la City University of New York, Graduate Center. Sus libros y publicaciones son ampliamente reconocidos al ofrecer una comprensión más profunda de cómo la digitalización ha remodelado aspectos fundamentales de nuestra vida cotidiana y nuestras interacciones sociales.
 
@@ -25,16 +25,16 @@ El software ha permitido combinar propiedades y técnicas de distintos medios de
 
 Para comprender la hibridación en el contexto de los nuevos medios, es esencial diferenciarla de la multimedia. Aunque ambos implican la unión de varios medios, difieren en cómo se integran y transforman.
 
-En la multimedia, distintos medios coexisten y se utilizan conjuntamente, pero mantienen su autonomía y estructura original. Por ejemplo, en una página web multimedia, podríamos encontrar texto, imágenes y sonido, cada uno conservando su forma y función independiente.
+**_En la multimedia, distintos medios coexisten y se utilizan conjuntamente, pero mantienen su autonomía y estructura original_**. Por ejemplo, en una página web multimedia, podríamos encontrar texto, imágenes y sonido, cada uno conservando su forma y función independiente.
 
-En contraste, la hibridación implica una fusión más profunda de medios, donde las características originales se entrelazan con nuevas capacidades adquiridas a través de su integración. Esto conlleva una transformación en la estructura original de los datos. Lev Manovich identifica dos tipos de hibridación, la que ocurre en la interfaz de usuario, definiendo nuevas formas de interacción o navegación, y la que crea nuevos formatos de medios. A su vez, existen híbridos que alteran tanto la interfaz como el formato de los medios.
+En contraste, **_la hibridación implica una fusión más profunda de medios, donde las características originales se entrelazan con nuevas capacidades adquiridas a través de su integración_**. Esto conlleva una transformación en la estructura original de los datos. Lev Manovich identifica dos tipos de hibridación, la que ocurre en la interfaz de usuario, definiendo nuevas formas de interacción o navegación, y la que crea nuevos formatos de medios. A su vez, existen híbridos que alteran tanto la interfaz como el formato de los medios.
 
 ## ¿Cómo reconocer que estamos ante una hibridación?
 Considero que para poder reconocer una hibridación, debemos observar cómo se combinan esos mismos medios de manera independiente. Para determinar que estamos ante una hibridación, debemos observar que esos mismos medios se fusionan generando nuevas formas de expresión, comunicación o interacción. Dando lugar a otras posibilidades, funcionalidades y formas de interacción.
 
 >_“tal y cómo lo vive el usuario del software para aplicaciones, la representación consta de partes entrelazadas: datos estructurados de una forma determinada y las interfaces/herramientas que tenemos para navegar y trabajar con esos datos” (Manovich, Lev. El software toma el mando. Barcelona: Editorial UOC, 2013)._
 
-En mi opinión, para determinar si nos encontramos ante una hibridación, es crucial considerar el nivel de análisis que se pretende valorar en una **estructura de datos** o **interfaz específica**. A su vez, este nivel de análisis estará condicionado por el grado de conocimiento que cada persona tenga sobre el medio en cuestión y su estructura. 
+En **mi opinión**, para determinar si nos encontramos ante una hibridación, es crucial considerar el nivel de análisis que se pretende valorar en una **estructura de datos** o **interfaz específica**. A su vez, este nivel de análisis estará condicionado por el grado de conocimiento que cada persona tenga sobre el medio en cuestión y su estructura. 
 
 Por ejemplo, Manovich identifica Streetview como una hibridación de fotografías y navegación espacial, donde su estructura subyacente es distintiva y única, lo que la define como una hibridación para aquellos que profundizan en su estructura de datos. Sin embargo, desde una mirada más amplia, se podría identificar como un simple entorno de imágenes digitales navegables, similar a un videojuego.
 

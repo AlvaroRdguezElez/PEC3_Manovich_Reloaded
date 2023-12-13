@@ -52,7 +52,7 @@ La blockchain proporciona una visibilidad pública de todas las transacciones, l
 
 Está tecnología no consta de una autoridad central. Al contrario, **_la información se distribuye en una red global de computadoras_**, conocidas como nodos. Estos nodos colaboran para validar y registrar transacciones, lo que suprime la necesidad de intermediarios y fortalece la resistencia contra la censura o manipulación de la información.
 
-Las decisiones sobre cambios o mejoras en la red se toman colectivamente mediante un proceso automático de votación codificados en la propia red. 
+Las decisiones sobre cambios o mejoras en la red, se toman colectivamente mediante un proceso automático de votación codificados en la propia red. 
 
 Este enfoque descentralizado, transparente y seguro, distingue a la blockchain como una tecnología revolucionaria en el ámbito digital.
 

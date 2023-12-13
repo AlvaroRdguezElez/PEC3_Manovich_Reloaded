@@ -75,7 +75,9 @@ Este enfoque descentralizado, transparente y seguro, distingue a la blockchain c
 ### _Tipo de hibridación_
 Cómo vemos, **_la blockchain es un caso de hibridación en el terreno de la estructura de datos_**, donde se experimenta una profunda transformación en la forma en que se procesa la información, reforzando significativamente la seguridad y la integridad de los datos, pero también estableciendo un nuevo paradigma en la gestión de la información y las transacciones, donde la descentralización y la gobernanza actúan como pilares fundamentales. 
 
-En esta tecnología, **_se fusionan distintas estructuras de datos para crear un medio completamente nuevo_**, combinando elementos de criptografía, listas enlazadas y sistemas de redes distribuidas. **_Bitcoin_**, fue la primera blockchain capaz de fusionar estos elementos, su propósito era crear una moneda digital descentralizada, proporcionando una alternativa a las monedas fiduciarias gobernadas por bancos centrales, pero está tecnología sólo fue el inicio de un nuevo medio en constante evolución.
+En esta tecnología, **_se fusionan distintas estructuras de datos para crear un medio completamente nuevo_**, combinando elementos de criptografía, listas enlazadas y sistemas de redes distribuidas. 
+
+**_Bitcoin_**, fue la primera blockchain capaz de fusionar estos elementos, su propósito era crear una moneda digital descentralizada, proporcionando una alternativa a las monedas fiduciarias gobernadas por bancos centrales, pero está tecnología sólo fue el inicio de un nuevo medio en constante evolución.
 
 ### _Su hibridación constante_
 La innovación en tecnología blockchain, es un claro ejemplo de la evolución constante que se produce en el metamedio ordenador. En este aspecto, **_Bitcoin ha impulsado la creación de nuevos híbridos_** que buscan mejorar y expandir sus capacidades. Un ejemplo es **Ethereum**, que adopta los principios fundamentales de Bitcoin y a su vez, incorpora una capa de programación avanzada. A diferencia de Bitcoin, que se limita principalmente a scripts básicos para transacciones.

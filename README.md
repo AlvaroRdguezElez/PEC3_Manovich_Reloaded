@@ -4,7 +4,9 @@ Autor: Álvaro Rodríguez Élez
 Fecha: 12/12/2023
   
 ## _Introducción_
-En este artículo se analizarán dos ejemplos de hibridación vistos a través de los ojos de Lev Manovich. Estudiaremos la **_Blockchain_** y **_Microsoft Start_** como casos de hibridación que influyen significativamente en el nivel cultural, remodelando las expectativas de la sociedad y ejemplificando a su vez, la adaptación de las capacidades de los nuevos medios a las exigencias surgidas de la evolución cultural.
+En este artículo se analizarán dos ejemplos de hibridación vistos a través de los ojos de Lev Manovich. 
+
+Estudiaremos la **_Blockchain_** y **_Microsoft Start_** como casos de hibridación que influyen significativamente en el nivel cultural, remodelando las expectativas de la sociedad y ejemplificando a su vez, la adaptación de las capacidades de los nuevos medios a las exigencias surgidas de la evolución cultural.
 
 
 ## _Sobre Lev Manovich_

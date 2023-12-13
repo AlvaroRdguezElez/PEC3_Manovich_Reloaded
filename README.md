@@ -113,7 +113,7 @@ Microsoft Start, presenta una combinación de elementos que conviven en un **_en
 
 
 
-La Hibridación en Microsoft Start.
+### _La Hibridación en Microsoft Start_
 Para valorar correctamente la plataforma, **_debemos diferenciar su hibridación, de los elementos y capacidades multimedia_**, conceptos que desarrolló Lev Manovich en su libro “El software toma el mando” y qué Adell Ferran resume a mi parecer de manera muy clara en el siguiente texto:
 
 >_“La hibridación es un proceso de remediación, de fusión de los medios que va más allá que la multimedia. En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan normalmente en un plano bidimensional” Ferran, Adell. “Remediación, multimedia e hibridación de los medios”. Blog de Fundamentos y evolución de la multimedia (blog). UOC. https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/_

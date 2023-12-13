@@ -113,7 +113,7 @@ Microsoft Start, presenta una combinación de elementos que conviven en un **_en
 
 
 
-### _La Hibridación en Microsoft Start_
+### _La hibridación en Microsoft Start_
 Para valorar correctamente la plataforma, **_debemos diferenciar su hibridación, de los elementos y capacidades multimedia_**, conceptos que desarrolló Lev Manovich en su libro “El software toma el mando” y qué Adell Ferran resume a mi parecer de manera muy clara en el siguiente texto:
 
 >_“La hibridación es un proceso de remediación, de fusión de los medios que va más allá que la multimedia. En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan normalmente en un plano bidimensional” Ferran, Adell. “Remediación, multimedia e hibridación de los medios”. Blog de Fundamentos y evolución de la multimedia (blog). UOC. https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/_
@@ -124,7 +124,7 @@ Sin embargo, la principal capacidad de esta plataforma se encuentra en la incorp
 
 Copilot protagoniza un avance notable en la plataforma Microsoft Start. Reconfigura la forma en que los usuarios consumen noticias e información. Su capacidad para comprender y responder a consultas por medio de una conversación natural, **_transforma la experiencia de búsqueda y consumo de noticias e información_**, haciendo que sea más interactiva, personalizada y accesible. 
 
-En lugar de navegar a través de las diferentes secciones o herramientas. La plataforma Microsoft Start **_permite a los usuarios dialogar directamente con Copilot_**, obteniendo la información más relevante de manera rápida y natural. Con la posibilidad de acceder al enlace original de la información o de la noticia.
+En lugar de navegar a través de las diferentes secciones o herramientas, la plataforma Microsoft Start **_permite a los usuarios dialogar directamente con Copilot_**, obteniendo la información más relevante de manera rápida y natural, con la posibilidad de acceder al enlace original de la información obtenida.
 
 
 ### _Tipo de hibridación_

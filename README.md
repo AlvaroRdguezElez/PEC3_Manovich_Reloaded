@@ -103,20 +103,22 @@ Sin embargo, estos esfuerzos de los organismos centralizados no han hecho más q
 ## Ejemplo de hibridación: Microsoft Start
 ![Imagen de la aplicación de Microsoft Start y la IA Copilot](https://github.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/blob/main/Microsoft%20Start.png?raw=true)
 ### _¿Qué es Microsoft Start?_
-Microsoft Start es una plataforma **_centrada principalmente en ofrecer al usuario una herramienta de noticias personalizadas_**. El usuario dispone de un feed de noticias que ha sido personalizado en función de sus intereses, ya que pueden elegir los temas y fuentes de noticias que les resulte más interesantes, lo que les permite tener un mayor control sobre el tipo de contenido.
+Microsoft Start es la evolución de la anterior plataforma Microsoft News. Es una plataforma **_pensada inicialmente para ofrecer al usuario una herramienta de noticias personalizadas_**. Dispone de un feed de noticias que ha sido personalizado en función de sus intereses, ya que pueden elegir los temas y fuentes de noticias que les resulte más interesantes, lo que les permite tener un mayor control sobre el tipo de contenido.
 
 A su vez, incorpora secciones de juegos, una calculadora o un traductor, lo que aporta un extra a las capacidades de la plataforma.
 
 Su objetivo es proporcionar un acceso rápido y fácil a noticias, información sobre el clima, finanzas, deportes, y entretenimiento, todo unificado en un solo lugar.
 
-Sin embargo, lo que hace realmente especial a Microsoft Start, es la capacidad de ofrecer la información de forma resumida y centrada en la interacción con el usuario haciendo uso de un chatbot asistido por IA.
+Microsoft Start, presenta una combinación de elementos que conviven en un **_entorno multimedia_**. Sin embargo, en el epicentro de esta plataforma, **_se produce una hibridación_** que afecta tanto a la estructura de datos, como a la interfaz de usuario al incorporar la herramienta de **_IA Copilot_**.
+
+
 
 La Hibridación en Microsoft Start.
-Para valorar correctamente la plataforma, **_debemos diferenciar su hibridación, de los elementos y capacidades multimedia_**, conceptos que desarrolló Lev Manovich en su libro “El software toma el mando” y qué Adell Ferran, resume a mi parecer de manera muy clara, con el siguiente texto:
+Para valorar correctamente la plataforma, **_debemos diferenciar su hibridación, de los elementos y capacidades multimedia_**, conceptos que desarrolló Lev Manovich en su libro “El software toma el mando” y qué Adell Ferran resume a mi parecer de manera muy clara en el siguiente texto:
 
 >_“La hibridación es un proceso de remediación, de fusión de los medios que va más allá que la multimedia. En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan normalmente en un plano bidimensional” Ferran, Adell. “Remediación, multimedia e hibridación de los medios”. Blog de Fundamentos y evolución de la multimedia (blog). UOC. https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/_
 
-Cómo se ha explicado anteriormente, Microsoft start integra en una sección de noticias, una calculadora o incluso un traductor. Es cierto que podemos interactuar con estos elementos en una misma plataforma, pero en **_este caso no se produce una hibridación_**, puesto que los elementos conviven y se complementan, conservando su propio lenguaje y sin generar una fusión de sus elementos.
+Cómo se ha explicado anteriormente, Microsoft start integra en una sección de noticias, una calculadora o incluso un traductor. Es cierto que podemos interactuar con estos elementos en una misma plataforma, pero **_en este caso no se produce una hibridación_**, puesto que los elementos conviven y se complementan, conservando su propio lenguaje y sin dar origen una fusión de sus elementos.
 
 Sin embargo, la principal capacidad de esta plataforma se encuentra en la incorporación de IA conversacional llamada **_Copilot. Y es aquí donde se observa la hibridación de los elementos_**. 
 

@@ -143,12 +143,12 @@ Esta evolución en las plataformas digitales, **_responde a la demanda de los us
 
 Microsoft Start destaca al ofrecer una solución integral donde noticias, información del clima, finanzas, entretenimiento y herramientas de productividad se encuentran en un solo lugar. Además, la integración de la IA conversacional de **_Copilot refuerza aún más esta tendencia hacia la simplificación_** y representa un paso adelante en la forma en que interactuamos con la tecnología y en nuestras expectativas como usuarios.
 
-## _Bibliografía y Referencias_
+## _Bibliografía y Webgrafía_
 ### _Bibliografía_
 - _Manovich, Lev. “El Software toma el mando”. Barcelona: Editorial UOC, 2013"_
 
 
-### _Referencias_
+### _Webgrafía_
 - _Ferran, Adell. “Remediación, multimedia e hibridación de los medios”. Blog de Fundamentos y evolución de la multimedia (blog). UOC. Fecha de acceso Diciembre 2023.
 https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/_
 

@@ -84,7 +84,7 @@ La innovación en tecnología blockchain, es un claro ejemplo de la evolución c
 
 Ethereum en su hibridación, **_añade una nueva funcionalidad al permitir contratos inteligentes_** o smart contracts. Estos contratos representan una evolución importantísima en la manera de concebir y ejecutar acuerdos automatizados, de esta forma, permite no solo transferencias de valor como en Bitcoin, sino también la ejecución de operaciones complejas y automatizadas basadas en condiciones predefinidas.
 
-En este proceso de mejora constante que se aplica a los nuevos medios y tras la incorporación de los contratos inteligentes a las nuevas blockchains, se incorporan nuevas funcionalidad que llevan esta tecnología a sectores como los videojuegos o el arte, revolucionando la propiedad de activos digitales con los NFTs; también a las finanzas, con la creación de las DeFi (finanzas descentralizadas); y a la logística, mejorando la trazabilidad y la eficiencia en la cadena de suministro.
+En este proceso de mejora constante que se aplica a los nuevos medios y tras la incorporación de los contratos inteligentes a las nuevas blockchains, se incorporan nuevas funcionalidades que llevan esta tecnología a sectores como los videojuegos o el arte, revolucionando la propiedad de activos digitales con los NFTs; también a las finanzas, con la creación de las DeFi (finanzas descentralizadas); y a la logística, mejorando la trazabilidad y la eficiencia en la cadena de suministro.
 
 ### _Su Influencia cultural_
 La blockchain es un ejemplo de cómo los nuevos medios influyen en la transcodificación desarrollada por Lev Manovich tanto a nivel computacional, como a nivel cultural. Ambos niveles se complementan e influyen mutuamente en una evolución constante.
@@ -95,7 +95,7 @@ Este avance tecnológico **_ha fomentado movimientos hacia una mayor transparenc
 
 ![Imagen de muchas personas conectadas a la Blockchain](https://github.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/blob/main/Blockchain%2002.png?raw=true)
 
-Este reconfiguración en el nivel cultural influye directamente en lo computacional. El interés de los usuarios por la descentralización, ha influenciado la evolución de la Blockchain en los últimos años. Prueba de ello es el **_creciente desarrollo de aplicaciones descentralizadas (DApps)_**, como las DeFi (aplicaciones de finanza descentralizada); el metaverso, con la distribución de activos por medio de NFTs o incluso base de datos en la nube descentralizadas.
+Esta reconfiguración en el nivel cultural influye directamente en lo computacional. El interés de los usuarios por la descentralización, ha influenciado la evolución de la Blockchain en los últimos años. Prueba de ello es el **_creciente desarrollo de aplicaciones descentralizadas (DApps)_**, como las DeFi (aplicaciones de finanza descentralizada); el metaverso, con la distribución de activos por medio de NFTs o incluso base de datos en la nube descentralizadas.
 
 Otro ejemplo de la influencia de la blockchain en el nivel cultural, son los esfuerzos de los organismos centralizados por desvirtuar esta tecnología, algunas autoridades ven en la blockchain un desafío a su control establecido especialmente en áreas como las finanzas y la gestión de datos.
 
@@ -106,6 +106,7 @@ Sin embargo, estos esfuerzos de los organismos centralizados no han hecho más q
 
 ## Ejemplo de hibridación: Microsoft Start
 ![Imagen de la aplicación de Microsoft Start y la IA Copilot](https://github.com/AlvaroRdguezElez/PEC3_Manovich_Reloaded/blob/main/Microsoft%20Start.png?raw=true)
+
 ### _¿Qué es Microsoft Start?_
 Microsoft Start es la evolución de la anterior plataforma Microsoft News. Es una plataforma **_pensada inicialmente para ofrecer al usuario una herramienta de noticias personalizadas_**. Dispone de un feed de noticias que ha sido personalizado en función de sus intereses, ya que pueden elegir los temas y fuentes de noticias que les resulte más interesantes, lo que les permite tener un mayor control sobre el tipo de contenido.
 
@@ -118,6 +119,7 @@ Microsoft Start, presenta una combinación de elementos que conviven en un **_en
 
 
 ### _La hibridación en Microsoft Start_
+
 Para valorar correctamente la plataforma, **_debemos diferenciar su hibridación, de los elementos y capacidades multimedia_**, conceptos que desarrolló Lev Manovich en su libro “El software toma el mando” y qué Adell Ferran resume a mi parecer de manera muy clara en el siguiente texto:
 
 >_“La hibridación es un proceso de remediación, de fusión de los medios que va más allá que la multimedia. En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan normalmente en un plano bidimensional” Ferran, Adell. “Remediación, multimedia e hibridación de los medios”. Blog de Fundamentos y evolución de la multimedia (blog). UOC. https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/_
@@ -132,9 +134,9 @@ En lugar de navegar a través de las diferentes secciones o herramientas, la pla
 
 
 ### _Tipo de hibridación_
-Copilot **_representa una hibridación en la interfaz de usuario_** que se produce dentro de la plataforma Microsoft Start. Esta nueva interfaz abre nuevas posibilidades en términos de accesibilidad y facilidad de uso, los usuarios que encuentren dificultades en el manejo de interfaces laboriosas, pueden sentir que hablar con la IA de Microsoft Start, es mucho más natural y fácil de entender. 
+Copilot **_representa una hibridación en la interfaz de usuario_** que se produce dentro de la plataforma Microsoft Start. Esta nueva interfaz abre nuevas posibilidades en términos de accesibilidad y facilidad de uso, los usuarios que encuentren dificultades en el manejo de interfaces laboriosas, pueden encontrar en la IA de Microsoft Start, una interfaz mucho más natural y fácil de entender. 
 
-No obstante, este avance en la interfaz de usuario, no sería posible sin producirse antes una **_hibridación en la **estructura de datos_**. 
+No obstante, este avance en la interfaz de usuario, no sería posible sin producirse antes una **_hibridación en la estructura de datos_**. 
 
 Tradicionalmente, las plataformas digitales han manejado datos estructurados, como categorías fijas de noticias o etiquetas predefinidas. Sin embargo, con la integración de la IA también se introducen datos no estructurados. La inteligencia artificial de Copilot utiliza algoritmos avanzados para analizar y procesar los datos. A su vez, el aprendizaje automático **_(machine learning) permite mejorar automáticamente su estructura de datos_** de forma continua, lo que repercute de forma directa en la interacción con el usuario.
 

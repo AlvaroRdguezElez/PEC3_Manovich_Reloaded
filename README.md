@@ -27,7 +27,8 @@ Para comprender la hibridación en el contexto de los nuevos medios, es esencial
 
 **_En la multimedia, distintos medios coexisten y se utilizan conjuntamente_**, pero mantienen su autonomía y estructura original. Por ejemplo, en una página web multimedia, podríamos encontrar texto, imágenes y sonido, cada uno conservando su forma y función independiente.
 
-En contraste, **_la hibridación implica una fusión más profunda de medios_**, donde las características originales se entrelazan con nuevas capacidades adquiridas a través de su integración. Esto conlleva una transformación en la estructura original de los datos. 
+En contraste, **_la hibridación implica una fusión más profunda de medios_**, donde las características originales se entrelazan con nuevas capacidades adquiridas a través de su integración. Esto conlleva una transformación en la estructura original de los datos.
+
 
 Lev Manovich (2013), identifica dos tipos de hibridación, la que ocurre en la interfaz de usuario, definiendo nuevas formas de interacción o navegación, y la que crea nuevos formatos de medios. A su vez, existen híbridos que alteran tanto la interfaz como el formato de los medios.
 

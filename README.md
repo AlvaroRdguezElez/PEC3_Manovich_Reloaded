@@ -29,7 +29,7 @@ Para comprender la hibridación en el contexto de los nuevos medios, es esencial
 
 En contraste, **_la hibridación implica una fusión más profunda de medios_**, donde las características originales se entrelazan con nuevas capacidades adquiridas a través de su integración. Esto conlleva una transformación en la estructura original de los datos. 
 
-Lev Manovich identifica dos tipos de hibridación, la que ocurre en la interfaz de usuario, definiendo nuevas formas de interacción o navegación, y la que crea nuevos formatos de medios. A su vez, existen híbridos que alteran tanto la interfaz como el formato de los medios.
+Lev Manovich (2013), identifica dos tipos de hibridación, la que ocurre en la interfaz de usuario, definiendo nuevas formas de interacción o navegación, y la que crea nuevos formatos de medios. A su vez, existen híbridos que alteran tanto la interfaz como el formato de los medios.
 
 ## ¿Cómo reconocer que estamos ante una hibridación?
 Considero que para poder reconocer una hibridación, debemos observar cómo se combinan esos mismos medios de manera independiente. Para determinar que estamos ante una hibridación, debemos observar que esos mismos medios se fusionan generando nuevas formas de expresión, comunicación o interacción. Dando lugar a otras posibilidades, funcionalidades y formas de interacción.
@@ -38,7 +38,7 @@ Considero que para poder reconocer una hibridación, debemos observar cómo se c
 
 En **_mi opinión_**, para determinar si nos encontramos ante una hibridación, es crucial considerar el nivel de análisis que se pretende valorar en una estructura de datos o interfaz específica. A su vez, este nivel de análisis estará condicionado por el grado de conocimiento que cada persona tenga sobre el medio en cuestión y su estructura. 
 
-Por ejemplo, Manovich identifica Streetview como _"una hibridación de fotografías y navegación espacial, donde su estructura subyacente es distintiva y única, lo que la define como una hibridación para aquellos que profundizan en su estructura de datos".(Manovich, Lev. El software toma el mando. Barcelona: Editorial UOC, 2013)_. Sin embargo, desde una mirada más amplia, se podría identificar como un simple entorno de imágenes digitales navegables, similar a un videojuego.
+Por ejemplo, Manovich (2013) identifica Streetview como una hibridación de fotografías y navegación espacial, donde su estructura subyacente es distintiva y única. Y por tanto, para aquellos que profundizan en su estructura de datos, la podrán observar como  una hibridación. Sin embargo, desde una mirada más amplia, se podría identificar como un simple entorno de imágenes digitales navegables, similar a un videojuego.
 
 Del mismo modo, al observar el metaverso desde una mirada amplia, se podría afirmar que es un claro híbrido que incorpora elementos de videojuegos, realidad virtual, fotografías y redes sociales en una interfaz completamente nueva. Pero una mirada más detallada podría revelar que se trata más bien de un entorno multimedia, donde diversos medios no se transforman o reconfiguran, sino que coexisten y se complementan.
 
